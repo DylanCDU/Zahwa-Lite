@@ -2,6 +2,7 @@ import { Component, NgZone } from '@angular/core';
 import { Router } from '@angular/router';
 import { AuthenticateService } from './services/authentication';
 import { Observable } from 'rxjs';
+import firebase from 'firebase/app';
 
 @Component({
     selector: 'app-root',

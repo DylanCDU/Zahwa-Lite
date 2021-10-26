@@ -1,6 +1,6 @@
 import * as functions from 'firebase-functions'
-//import vision from '@google-cloud/vision'
 import * as admin from 'firebase-admin'
+//import vision from '@google-cloud/vision'
 const vision = require('@google-cloud/vision')
 
 admin.initializeApp()

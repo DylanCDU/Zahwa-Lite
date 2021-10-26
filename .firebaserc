@@ -1,5 +1,15 @@
 {
   "projects": {
-    "default": "zahwakuma"
+    "default": "zawhaaaaa",
+    "hosting": "zawhaaaaa"
+  },
+  "targets": {
+    "zawhaaaaa": {
+      "hosting": {
+        "app": [
+          "zawhaaaaa"
+        ]
+      }
+    }
   }
 }
